@@ -1,0 +1,49 @@
+   🔶|____EXTENTIONS____|🔶
+Prettier
+Auto Rename Tag
+Backticks
+Browse Lite
+CodeSnap
+Git Graph
+Git History
+webpack
+Live Server
+Multiple cursor
+Path Autocomplete
+Path Inetellisense
+Python
+Python Extention Pack
+Svg Preview
+Tailwind CSS InetelliSense
+Jest Runner
+
+
+   🔶|____THEMES____|🔶
+Bearded Theme
+Doki Theme
+Kanagawa
+Red Group's themes
+Shades of Purple
+Solarized
+Tailwind Theme
+Vue Theme
+GitHub Theme
+
+   🔷|----Icons----|🔷
+Material Icon Theme
+Catppuccin Icons
+vscode-pets
+
+
+   🔶|____SNIPPETS____|🔶
+ES7 React/Redux/GraphQL/React-Native snippets
+CSS snippets
+GSAP Snippets 
+Html to Css autocompletion
+Next JS/TS Snippets
+
+
+   🔶|____AI____|🔶
+IntelliCode
+IntelliCode API Usege Examples
+Phind.com
